@@ -3,7 +3,7 @@
 - 👀 I’m interested in software engineering
 - 📫 How to reach me sahaankita348@gmail.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ankita320)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ankita320&card_width=300)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ankita320&show_icons=true&theme=cobalt)
 
